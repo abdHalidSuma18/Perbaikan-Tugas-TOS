@@ -1,4 +1,5 @@
 makanan favorit
   - rawon
   - nasi goreng
-  - ikan puti
+  - bala rica
+
