@@ -1,3 +1,4 @@
 makanan favorit
   - rawon
   - nasi goreng
+  - ikan puti
